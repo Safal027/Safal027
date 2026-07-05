@@ -4,7 +4,7 @@
 
 # Hi, I'm Safal Adhikari 👋
 
-### +2 Student • Nepal 🇳🇵
+### +2 Student • Nepal
 
 Passionate about programming, artificial intelligence, and building practical software projects while continuously improving my development skills.
 
@@ -41,7 +41,6 @@ Passionate about programming, artificial intelligence, and building practical so
 
 - 📚 **Mini Projects Collection** — Beginner Python, HTML & CSS projects
 - 🌐 Personal Web Development Projects
-- ♟️ Chess Voice Assistant *(In Progress)*
 - 🤖 Future AI & Machine Learning Projects
 
 ---
@@ -74,7 +73,7 @@ Passionate about programming, artificial intelligence, and building practical so
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safala679@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safal-adhikari-437942234/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Safal027)
 
