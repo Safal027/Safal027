@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm Safal Adhikari 👋
+# Hi, I'm Safal 👋
 
 ### +2 Student • Nepal
 
