@@ -49,9 +49,9 @@ Passionate about programming, artificial intelligence, and building practical so
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Safal027&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Safal027&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Safal027&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Safal027&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -71,19 +71,15 @@ Passionate about programming, artificial intelligence, and building practical so
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safala679@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safal-adhikari-437942234/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Safal027)
+<a href="mailto:safala679@gmail.com">📧 Email</a> •
+<a href="https://www.linkedin.com/in/safal-adhikari-437942234/">💼 LinkedIn</a> •
+<a href="https://github.com/Safal027">🐙 GitHub</a>
 
 </div>
 
 ---
 
 <div align="center">
-
-> *"Learning one project at a time."*
 
 ⭐ Thanks for visiting my profile!
 
